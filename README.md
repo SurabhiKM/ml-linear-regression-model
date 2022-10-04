@@ -9,7 +9,7 @@ In this we predict the value of one variable Y based on another variable X.
 X is called as independent variable and Y is called as dependent variable.
 It is simple because it examines the relationship between two variables only.
 It is linear because when independent variable increases( or decreases), dependent variable increases(or decreases) in linear fashion.
-# Equation used in this Problem
+# Equation used in this Problem:
 Y = b + mX
 Y = Dependent variable
 b = y intercept 
